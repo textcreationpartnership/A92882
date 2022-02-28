@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and lamentable newes from several parts of England. Being a true relation of the great losses sustained by those strange windes, and impetuous tempests, on Tuesday the 18th of February, both by sea and land  ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92882</idno>
+            <idno type="STC">Wing S244B</idno>
+            <idno type="STC">ESTC R229672</idno>
+            <idno type="EEBO-CITATION">99895347</idno>
+            <idno type="PROQUEST">99895347</idno>
+            <idno type="VID">152718</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152718)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2317:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and lamentable newes from several parts of England. Being a true relation of the great losses sustained by those strange windes, and impetuous tempests, on Tuesday the 18th of February, both by sea and land  ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles Tay,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lightning --  England --  Early works to 1800.</term>
+               <term>Windstorms --  England --  Early works to 1800.</term>
+               <term>Rainstorms --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152718:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <p>
+               <hi>Sad and Lamentable NEWES From ſeveral parts of ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>BEING</hi> A true Relation of the great Loſſes ſuſtained by thoſe ſtrange Windes, and impetuous Tempeſts, on <hi>Tueſday</hi> the 18th of <hi>February,</hi> both by Sea and Land. The number killed and wounded in the City of <hi>London,</hi> and other places, by the blowing down of Chimneys, and the tops of ſtately Houſes; the violent Storm ef Rain, mixt with Lightning at <hi>Hereford, Worceſter, Norwitch,</hi> and other famous Cities, the like not known in many Ages. The renting and tearing of many gallant Churches and ſtately Fabricks; ſo that there was ſcarce any ſafety for Man, Woman, or Child, either within or without Doors: The blowing down of many dwelling Houſes in ſeveral parts, as alſo great Barns, Stables, and Cow-houſes, where many Cattle were killed and deſtroyed. The tearing up of great Trees by the Roots, and the filling of High-wayes ſo exceeding full, that Carriers and Travellers can hardly paſs.</p>
+            <figure/>
+            <p>LONDON, <hi>Printed for</hi> Charles Tay, <hi>1662.</hi>
+            </p>
+            <pb facs="tcp:152718:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152718:3"/>
+            <!-- PDF PAGE 109 -->
+            <pb n="3" facs="tcp:152718:3"/>
+            <!-- PDF PAGE 109 -->
+            <head>Sad and Lamentable NEWES From the North, Eaſt, and Weſtern parts OF England.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great and violent ſtorms that lately happened in the City of <hi>London</hi> and other parts adjacent, are as ſtrange to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elate as they were then dreadful to behold; the like having not bin in ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Ages, both for the continuance and impetuouſneſs thereof; and to begin with what befel in this <hi>Southern</hi> Climate, the City of <hi>London</hi> had its ſhare; for in <hi>Covent</hi> Garden,
+<pb n="4" facs="tcp:152718:4"/>
+               <!-- PDF PAGE 110 -->near the <hi>Fleece</hi> Tavern, a Lady received her laſt breath being killed by the roof of the houſe falling into her Chamber, and two little Children were miraculously preſerved in the ſame houſe<g ref="char:punc">▪</g> being immediately before that terrible blow hapned carried down ſtairs. Another perſon of quali<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y had her Br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins beat out by the fall of a Chimney, and many were lamentably hurt and bru<g ref="char:EOLhyphen"/>ſed in ſeveral places, to the number of 17. amongſt whom a poor Porter in <hi>Fleetſtreet,</hi> felt the bitter pain of that ſad Tempeſt, having his right Arm ſhivered almoſt to pieces, by the vehement fall of divers Bricks and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iles from off a houſe near the Pageant, the top of the ſaid Pageant being ſoon after likwiſe blown down, the fall thereof being ſo great, that it beat down the ſides of many houſes, doing great harm to the inhabi<g ref="char:EOLhyphen"/>tants; the other likewiſe in <hi>Leaden Hall street</hi> was ex<g ref="char:EOLhyphen"/>ceedingly rent and torn, and the Temple in <hi>Cheapſide</hi> ſomewhat defaced about the top, but bleſſed be God no great harm done to the people.</p>
+            <p>This great Tempeſt continued for many hours, do<g ref="char:EOLhyphen"/>ing much harm to many ſtately houſes, which by the fall of Chimneys and flying about both of Bricks and Tiles, ſome Horſes were killed in the open ſtreets, be<g ref="char:EOLhyphen"/>ſides one Coach horſe ſtanding in the Coach, near <hi>Grays Inn</hi> had his Brains beat out by the Bricks that deſcended from the houſes. But that which is moſt ſad and grievous is, the great ruines that befel the Country people in ſeveral places, where 'tis ſaid above 2. were killed and hurt; for ſad were the objects all along the Road from <hi>Cambridge</hi> to <hi>London,</hi> the Barns and Out houſes being in many places levelled to the
+<pb n="5" facs="tcp:152718:4"/>
+               <!-- PDF PAGE 110 -->ground, and many Cattle overwhelmed and ſmother<g ref="char:EOLhyphen"/>ed with the Timber, Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch and Rubbiſh; their dwel<g ref="char:EOLhyphen"/>ling houſes were alſo pitiouſly rent and torn and little ſafety in many of their habitations. The Wind-Mils al<g ref="char:EOLhyphen"/>ſo in many places were laid flat to the earth, and the May-Poles alſo about <hi>Tottenham High Croſs, Waltham, Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſdon,</hi> and other places, became no longer ſtanding Triumphs.</p>
+            <p>
+               <hi>Great were the cries of the people in many Towns, to ſee ſuch a devaſtation of their Corn and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oods; nay, the fields, Woods, and Groves, ſeemed to mourn for the loſs of their ſtately Cedars, there being in many places great Trees torn up by force and violence of the Wind by the roots: And this extended many miles, even to the North Eaſt, and VVeſtern parts: for not onely at</hi> Lin <hi>in</hi> Norfolk, Cambridge, Huntingdon, Hartford, Buokingham, Northampton, <hi>&amp; in</hi> Leiceſterſhire, <hi>but alſo as far as</hi> Hereford <hi>in the VVeſt of</hi> England, <hi>the ſtorm was exceeding great, and very conſi<g ref="char:EOLhyphen"/>derable the loſſes, ſuſtained by thoſe great &amp; ſtrange winds: for on Tueſday morning the 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th of February about two of the clock began a moſt violent ſtorm of Rain mixt with Lightning, which con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inued about two hours: after which followed ſuch an impetuous Tempeſt of wind that never was the like known in thoſe part, continuing till almoſt noon ve<g ref="char:EOLhyphen"/>ry ſtrong and high, being ſcarce any ſafety within Doors or without<g ref="char:punc">▪</g> and not a Church nor Houſe in the City, but hath re<g ref="char:EOLhyphen"/>ceived loſs. The poor Country people reſort thither daily, complaining of their great ſufferings by this violent ſtorm, ſome having their awelling houſes blown down, ſome their Barns<g ref="char:punc">▪</g> ſome their Stables, Beaſts, and Cow-houſes, their Hor<g ref="char:EOLhyphen"/>ſes and Cattle being deſtroyed and killed in them.</hi>
+            </p>
+            <pb n="6" facs="tcp:152718:5"/>
+            <!-- PDF PAGE 111 -->
+            <p>The like hapned at <hi>VVorc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter, Gloceſter, Tenisbury</hi> and other Towns and Vi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ges in thoſe parts; and the High wayes are ſo full of fal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Trees, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Carriers<g ref="char:punc">▪</g> W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ggo<g ref="char:EOLhyphen"/>ners, and other Travellers can hardly paſs; and it is to be feared that many have ſuffered great ſhipwrack at Sea, many Fiſhermen being likewiſe reported to be caſt away at the mouth of the River of <hi>Thames.</hi>
+            </p>
+            <p>We alſo hear, that the ſame day there was very great and violent ſtorms in <hi>Yorkſhire Lincolnſhire,</hi> and thoſe parts, and that there is very much harm done by theſe ſtrange Windes, and that many Cattle have been kil'd by the fall of Houſes</p>
+            <p>Such ſto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes have not been known thoſe many years, and indeed ſcarce heard of ſince the year 1625. at which tim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſſed be God, Providence was pleaſed to divert it from <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ning to theſe Kingdomes, for the Eaſtern Countries underwent the terror thereof, eſpe<g ref="char:EOLhyphen"/>cially at <hi>Conſtantinople,</hi> where on <hi>Munday</hi> the 29th, of <hi>June</hi> there began a m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt terrible Tempeſt; with ſo vio<g ref="char:EOLhyphen"/>lent and c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Thunder and Lightning, that all the City ſhewed as if it had been on fire: At the end whereof fell a ſtorm of H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il, whoſe force brake both Tiles and Glaſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſo tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes were taken up of an hundred and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty Drams and the next morning ſome of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem being weighed they were of about ſeven or eight Ounces a piece, where <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y were ſore wounded: And the third of <hi>July</hi> after, there fell out another Tempeſt of Thunder and Lightning, which burned ſome and ſlew many Cattle in the Field.</p>
+            <p>Sundry ſuch examples we may read of in Hiſtory, but thoſe which ſeemed moſt terrible, are ſuch menti<g ref="char:EOLhyphen"/>oned
+<pb n="7" facs="tcp:152718:5"/>
+               <!-- PDF PAGE 111 -->in the Reign of <hi>Tarquin,</hi> in whoſe dayes fell out one of the moſt terribleſt Earthquakes that ever was: Firſt, there aroſe furious and vio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent Windes, which tare up Trees by the Roots, made Birds fall to the Earth, uncovered houſes<g ref="char:punc">▪</g> and overthrew many; then followed Thunder are Lightning, which made the night like noon day; then fearfull Thunder Bolts, which brake down ſtately Buildings<g ref="char:punc">▪</g> and slew many men; the Sea was wonderfully troubled, after which came ſuch a violent heat, that men were not able to endure it but were forced to caſt off their cloaths and hide themſelves under ground; the Sky was ſo dark and duſt ſo great, that one could not ſee another, ſo that flocking together, many fell down dead. Many Cities were ruinated, much people periſhed, many moun<g ref="char:EOLhyphen"/>tains and Hills fell and became plains, many Rivers were dried up, Fountains and Springs brake up where never was any before, and almoſt all the houſes in <hi>An<g ref="char:EOLhyphen"/>tioch</hi> were demoliſhed.</p>
+            <p>Thus did the Lord pour down heavy Judgements upon a wicked and ſinful people; for many are the Plagues which <hi>God ſends ſometimes upon a people to make them ſee their iniquities;</hi> and ſometimes they are great and of long continuance, to ſtir up and induce a ſinful people to obſerve the works of the Lord, and fear his Glorious Name: O that the inhabitants of this Iſland would take up a lamentation for the ſins of <hi>England,</hi> crying to the Lord night and day, renting their hearts, and not their garments that his Divine Majeſty would be pleaſed to divert thoſe judgements threatned to this <hi>ſinful Land,</hi> and to preſerve us from violent
+<pb n="8" facs="tcp:152718:6"/>
+               <!-- PDF PAGE 112 -->Storms, Famines Plagues, and Sickneſſes; for by tur<g ref="char:EOLhyphen"/>ning to the Lord, is the only way to remove his judge<g ref="char:EOLhyphen"/>ments; and if we ſeek the face of the Lord, and turn to him, and call upon his Name, and forſake our evil wayes, then will the Lord hear from Heaven, pardon our Sins and heal our Land.</p>
+            <p>
+               <hi>The loſs ſuſtained by theſe great and violent VVindes, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is ſaid to amount to above one Million of Money; beſides the loſs of many ſhips</hi> 7 <hi>being reported to be ſunk, coming for</hi> London <hi>laden with</hi> Suffolk <hi>Chee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and other neceſſary pro<g ref="char:EOLhyphen"/>viſions: ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Boats were alſo caſt away<g ref="char:punc">▪</g> and great detri<g ref="char:EOLhyphen"/>ment an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mage done by fire the ſame day, which hapned on Tueſday the</hi> 18th <hi>of this inſtant February.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152718:6"/>
+            <!-- PDF PAGE 112 -->
+         </div>
+      </body>
+   </text>
+</TEI>
